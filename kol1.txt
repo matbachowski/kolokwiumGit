@@ -2,3 +2,4 @@ zmiana1
 zmiana2 aaa
 zmiana3 bbb
 zmiana do revertu
+zmiana do revertu2
